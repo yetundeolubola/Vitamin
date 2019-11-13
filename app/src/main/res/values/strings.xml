@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Vitamin</string>
+    
+   <string-array name="android_versions">
+       <item> Vitamin A</item>
+       <item> Vitamin B</item>
+       <item> Vitamin C</item>
+       <item> Vitamin D</item>
+
+
+   </string-array>
+   
+</resources>
