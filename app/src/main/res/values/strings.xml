@@ -1,13 +1,26 @@
 <resources>
     <string name="app_name">Vitamin</string>
-    
-   <string-array name="android_versions">
-       <item> Vitamin A</item>
-       <item> Vitamin B</item>
-       <item> Vitamin C</item>
-       <item> Vitamin D</item>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_vitamin">Vitamins are organic compounds that are needed in small quantities to
+        sustain life. Most vitamins need to come from food. This is because the human body either does
+        not produce enough of them, or it does not produce any at all. A vitamin is one of a group of
+        organic substances that is present in minute amounts in natural foodstuffs. Vitamins are essential
+        to normal metabolism. If we do not take enough of any kind of vitamin, certain medical conditions can result.
+        There are currently 13 recognized vitamins. Vitamin A,Vitamin B,Vitamin B2,Vitamin B3, Vitamin B5,Vitamin B6,
+        Vitamin B7,Vitamin B9,Vitamin B12,Vitamin C,Vitamin D,Vitamin E,Vitamin K Vitamins are either water-soluble or
+        fat-soluble. Fat-soluble vitamins are easier for the body to store than water-soluble. Vitamins always contain carbon,
+        so they are described as organic.</string>
+    <string name="bar_title">Vitamin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="android_versions">
+        <item> Vitamin A</item>
+        <item> Vitamin B</item>
+        <item> Vitamin C</item>
+        <item> Vitamin D</item>
 
 
-   </string-array>
-   
+    </string-array>
+
 </resources>

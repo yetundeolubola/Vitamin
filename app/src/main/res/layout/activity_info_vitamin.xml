@@ -4,13 +4,13 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".info_vitamin"
+    android:layout_height="wrap_content"
+    tools:context=".Activity.info_vitamin"
     android:layout_marginBottom="50dp">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_vitamin"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:scrollbars="vertical"/>
 

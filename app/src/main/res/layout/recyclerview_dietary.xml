@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@+id/rl_dietary"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv_dietary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="5dp"
+        app:cardUseCompatPadding="true"
+        app:cardBackgroundColor="#D3ECE9">
+
+
+        <TextView
+            android:id="@+id/tv_dietary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dietary Source"
+            android:textSize="20sp"
+            android:padding="12dp"
+            android:layout_margin="20dp"/>
+
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>
